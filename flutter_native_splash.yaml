@@ -1,0 +1,4 @@
+flutter_native_splash:
+  image: assets/cup.png
+  color: F5CFC7
+  android_disable_fullscreen: true
